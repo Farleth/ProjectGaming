@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bad-apple-but-really-bad.mp3-d17970332a77be7e4e63f16b69154da7.mp3str"
+
+[deps]
+
+source_file="res://bad-apple-but-really-bad.mp3"
+dest_files=[ "res://.import/bad-apple-but-really-bad.mp3-d17970332a77be7e4e63f16b69154da7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
